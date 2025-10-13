@@ -1,0 +1,8 @@
+# .gitignore
+github_categories_database.json
+repos-min-1000stars.json
+repos-min-100stars.json
+github_repos_categorized.csv
+github_repos_full_1000.csv
+github_repos_full.csv
+github_repos_multilabel_categorized_from_csv.csv
